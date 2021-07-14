@@ -88,7 +88,7 @@
           "header": "Actividades de informes",
           "type": "lineChart",
           "xAxisLabel": "Fecha",
-          "yAxisLabel": "Numero de reportes",
+          "yAxisLabel": "Número de reportes",
           "layout": {
             "start": 4,
             "end": 13,
